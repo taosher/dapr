@@ -31,9 +31,11 @@
 [x-badge]:https://img.shields.io/twitter/follow/daprdev?logo=x&style=flat
 [x-link]:https://twitter.com/daprdev
 
-## Get your own demo on AlibabaCloud
+## Get Your Own Demo on AlibabaCloud
 
-[![Deploy on AlibabaCloud ACS](https://service-info-public.oss-cn-hangzhou.aliyuncs.com/computenest.svg)](https://acs.console.aliyun.com/quick-deploy?repoUrl=https://github.com/taosher/dapr.git&branch=master)
+<a href="https://acs.console.aliyun.com/quick-deploy?repo=taosher/dapr&branch=master" target="_blank">
+  <img src="https://img.alicdn.com/imgextra/i3/O1CN015KxwZy26JdMwbribb_!!6000000007641-55-tps-438-70.svg" width="200" alt="Deploy on AlibabaCloud ACS">
+</a>
 
 ## Introduction
 
